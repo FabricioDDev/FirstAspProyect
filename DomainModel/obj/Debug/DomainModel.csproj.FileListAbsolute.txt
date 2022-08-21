@@ -1,0 +1,6 @@
+C:\Users\brenda\Desktop\Proyectos\Crud_Users\DomainModel\bin\Debug\DomainModel.dll
+C:\Users\brenda\Desktop\Proyectos\Crud_Users\DomainModel\bin\Debug\DomainModel.pdb
+C:\Users\brenda\Desktop\Proyectos\Crud_Users\DomainModel\obj\Debug\DomainModel.csproj.AssemblyReference.cache
+C:\Users\brenda\Desktop\Proyectos\Crud_Users\DomainModel\obj\Debug\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\brenda\Desktop\Proyectos\Crud_Users\DomainModel\obj\Debug\DomainModel.dll
+C:\Users\brenda\Desktop\Proyectos\Crud_Users\DomainModel\obj\Debug\DomainModel.pdb

@@ -1,0 +1,6 @@
+C:\Users\brenda\Desktop\Proyectos\Crud_Users\DB\bin\Debug\DB.dll
+C:\Users\brenda\Desktop\Proyectos\Crud_Users\DB\bin\Debug\DB.pdb
+C:\Users\brenda\Desktop\Proyectos\Crud_Users\DB\obj\Debug\DB.csproj.AssemblyReference.cache
+C:\Users\brenda\Desktop\Proyectos\Crud_Users\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+C:\Users\brenda\Desktop\Proyectos\Crud_Users\DB\obj\Debug\DB.dll
+C:\Users\brenda\Desktop\Proyectos\Crud_Users\DB\obj\Debug\DB.pdb

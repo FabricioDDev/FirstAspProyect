@@ -1,0 +1,11 @@
+C:\Users\brenda\Desktop\Proyectos\Crud_Users\DataModel\bin\Debug\DataModel.dll
+C:\Users\brenda\Desktop\Proyectos\Crud_Users\DataModel\bin\Debug\DataModel.pdb
+C:\Users\brenda\Desktop\Proyectos\Crud_Users\DataModel\bin\Debug\DB.dll
+C:\Users\brenda\Desktop\Proyectos\Crud_Users\DataModel\bin\Debug\DomainModel.dll
+C:\Users\brenda\Desktop\Proyectos\Crud_Users\DataModel\bin\Debug\DB.pdb
+C:\Users\brenda\Desktop\Proyectos\Crud_Users\DataModel\bin\Debug\DomainModel.pdb
+C:\Users\brenda\Desktop\Proyectos\Crud_Users\DataModel\obj\Debug\DataModel.csproj.AssemblyReference.cache
+C:\Users\brenda\Desktop\Proyectos\Crud_Users\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\brenda\Desktop\Proyectos\Crud_Users\DataModel\obj\Debug\DataModel.csproj.CopyComplete
+C:\Users\brenda\Desktop\Proyectos\Crud_Users\DataModel\obj\Debug\DataModel.dll
+C:\Users\brenda\Desktop\Proyectos\Crud_Users\DataModel\obj\Debug\DataModel.pdb
